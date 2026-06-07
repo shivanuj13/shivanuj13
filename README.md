@@ -1,42 +1,122 @@
-# Hi there, I'm Anuj 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a software developer passionate about creating meaningful experiences. Here's a little bit about me:
+# Anuj Kumar
 
-> **Note:** This is my **personal GitHub account**. It’s primarily for maintaining personal projects and experimenting with ideas.  
-> To see my **recent professional work**, please visit my [**Work GitHub profile**](https://github.com/AnujLM).
+### Flutter Engineer • Mobile Platforms
 
-### 👀 Interests
-- **Software Development** – Building cool applications and tools.
-- **Mobile Development** – Currently deep into **Flutter**.
+Building mobile products, SDKs, and developer tooling.
 
-### 💞️ Open to Collaboration
-- Looking for opportunities to collaborate on **Flutter** projects, SDKs, and mobile development.
+Currently exploring **Jetpack Compose**, **React**, and **Jaspr**.
 
-### 🛠️ Tech Stack
-- **Languages**: Dart, C++, Kotlin, JavaScript
-- **Frameworks**: Flutter
-- **Database**: MongoDB
-- **Version Control**: Git
+![](https://komarev.com/ghpvc/?username=shivanuj13\&style=flat-square)
 
-### 🚀 Currently Working On
-- Working at **LikeMinds**, building an SDK for in-app community experiences.
-
-### 🔗 Find Me Online
-- GitHub (Work): [AnujLM](https://github.com/AnujLM)
-- Twitter (X): [@return_anuj](https://x.com/return_anuj)
-
-### 📫 How to Reach Me
-- Feel free to reach out via **GitHub issues**, **Twitter**, or shoot me a message directly. I'm always open to chatting about new opportunities, projects, and tech!
+</div>
 
 ---
 
-### 🏆 Activity & Impact
-Check out my GitHub contributions so far:
+## About
 
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanuj13&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+I'm a Flutter engineer focused on building scalable mobile applications, developer platforms, and great user experiences.
 
-![Anuj's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivanuj13&theme=radical)
+Currently working as **SDE-2 @ PowerUp Money**, building fintech products and platform infrastructure.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanuj13&layout=compact&theme=radical)
+Outside of Flutter, I'm actively exploring modern web and cross-platform technologies including **Jetpack Compose**, **React**, and **Jaspr**.
 
-**Thanks for visiting my profile! Feel free to explore my personal repositories, and let's connect!** 👨‍💻
+---
+
+## Tech Stack
+
+```text
+Mobile
+├── Flutter
+├── Dart
+├── Kotlin
+└── Jetpack Compose
+
+Web
+├── React
+├── Jaspr
+├── TypeScript
+└── Tailwind CSS
+
+Backend & Infra
+├── Firebase
+├── REST APIs
+├── WebSocket
+└── CI/CD
+
+Architecture
+├── BLoC
+├── Clean Architecture
+├── Server Driven UI
+└── Modular SDK Design
+```
+
+---
+
+## Currently Exploring
+
+* Jetpack Compose & Compose Multiplatform
+* React Ecosystem
+* Jaspr Web Applications
+* AI-assisted Developer Tooling
+* Mobile Performance Engineering
+* Product-focused System Design
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanuj13&hide_border=true" />
+</p>
+
+---
+## GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanuj13&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivanuj13&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivanuj13&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivanuj13&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivanuj13&theme=github_dark" />
+</p>
+
+---
+
+## What I'm Building
+
+* 📱 Mobile applications with Flutter
+* 🏦 Fintech experiences and investment products
+* 🧩 SDKs and developer tooling
+* 🌐 Modern web applications with Jaspr & React
+* 🤖 AI-powered developer workflows
+
+---
+
+## Featured Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,ts,firebase,git,github,vscode" />
+</p>
+
+---
+
+## Connect
+
+* X: https://x.com/return_anuj
+* Portfolio: https://shivanuj13@github.io
+
+---
+
+<div align="center">
+
+> Building products, exploring platforms, and continuously learning.
+
+</div>
