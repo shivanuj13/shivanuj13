@@ -110,7 +110,7 @@ Architecture
 
 ## Connect
 
-* X: https://x.com/return_anuj
+* X: https://x.com/hello_anuj
 * Portfolio: [https://shivanuj13@github.io](https://shivanuj13.github.io/)
 
 ---
